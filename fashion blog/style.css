@@ -1,0 +1,69 @@
+#contact {
+    background-color: rgb(0, 0, 40);
+    color: white;
+}
+
+#contact p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+
+#contact h2 {
+    font-weight: lighter;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+#gallery {
+    background-color: rgb(252, 252, 233);
+}
+
+#gallery h2 {
+    background-color: rgb(0, 0, 40);
+    color: white;
+}
+
+#gallery h3 {
+    background-color: antiquewhite;
+    color: rgb(0, 0, 40);
+}
+
+#gallery a {
+    color: darkturquoise;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#trends {
+    background-color: rgb(218, 246, 236);
+}
+
+#trends h2 {
+    background-color: rgb(0, 0, 40);
+    color: white;
+}
+
+#about {
+    background-color: cornsilk;
+}
+
+#about h2 {
+    background-color: rgb(0, 0, 40);
+    color: white;
+}
+
+ul {
+    background-color: rgb(177, 255, 241);
+}
+
+h3 {
+    background-color: rgb(0, 0, 40);
+    color: white;
+}
+
+body {
+    background-color: cornflowerblue;
+}
