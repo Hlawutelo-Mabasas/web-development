@@ -1,0 +1,73 @@
+#about h2 {
+    background-color: rgb(0, 0, 40);
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#contact {
+    background-color: rgb(0, 0, 40);
+    color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(227, 241, 241);
+}
+
+#purpose h2 {
+    background-color: rgb(0, 0, 40);
+    color: whitesmoke;
+}
+
+#mission h2 {
+    background-color: rgb(0, 0, 40);
+    color: whitesmoke;
+}
+
+#goal h2 {
+    background-color: rgb(0, 0, 40);
+    color: whitesmoke;
+}
+
+#core-values h2 {
+    background-color: rgb(0, 0, 40);
+    color: whitesmoke;
+}
+
+#founder h3 {
+    background-color: rgb(0, 0, 40);
+    color: whitesmoke;
+}
+
+#gallery h2 {
+    background-color: rgb(0, 0, 40);
+    color: whitesmoke;
+}
+
+#gallery h4 {
+    background-color: rgb(2, 2, 88);
+    color: whitesmoke;
+}
+
+.menu {
+    width: 100%;
+    background-color: aqua;
+    height: 30px;
+    padding-top: 12px;
+    z-index: 500;
+    align-items: center;
+}
+
+.menu a {
+    opacity: 0.5;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.menu a:hover {
+    color: blue;
+}
